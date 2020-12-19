@@ -1,4 +1,5 @@
-#A basic small banking app using array methods, timers and Dates
+#A basic small banking app using array methods, timers and Dates.
+
 Test Data:
 
 User 1: {
